@@ -16,7 +16,7 @@ public class Utilidades {
 		Scanner scan = new Scanner(System.in);
 		reply = scan.nextLine();
 		
-		return reply;
+		return reply ;
 	}
 
 	/**
